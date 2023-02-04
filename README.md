@@ -7,19 +7,13 @@ It is convenient to adopt a good project structure having support of git when st
 # Project Highlights
 1. Jupyter Notebook
 2. Pandas
-3. matplotlib
-4. numpy
-5. seaborn
-6. **data** directory git ignored
-7. module finder for code sharing
-
-# About The Author
-I [Janishar Ali](https://janisharali.com) have 10 years of experience in tech industry working for top companies. I enjoy sharing my learnings with the community. You can connect with me here:
-* [Twitter](https://twitter.com/janisharali)
-* [LinkedIn](https://www.linkedin.com/in/janishar-ali)
-* [Instagram](https://www.instagram.com/janisharali)
-
-[Learn from My YouTube Channel](https://www.youtube.com/@janisharali)
+3. Polars
+4. matplotlib
+5. numpy
+6. seaborn
+7. plotly.express
+8. **data** directory git ignored
+9. module finder for code sharing
 
 ## Recommended Steps:
 
@@ -61,23 +55,5 @@ https://user-images.githubusercontent.com/11065002/209532606-c62df522-2136-4837-
         └── display.py
 ```
  
-### Find this project useful ? :heart:
-* Support it by clicking the :star: button on the upper right of this page. :v:
 
-### License
-```
-   Copyright (C) 2022 JANISHAR ALI ANWAR
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
-```
 
